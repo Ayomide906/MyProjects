@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d4f84e8-c73f-499e-b661-ea167a65b6f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gradient_descent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradient_descent_multivar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_regression_mode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression_mode.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="338r9oRVMZB9IdMzibo9GDBtq6t" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.gradient_descent.executor": "Run",
+    "Python.gradient_descent_multivar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
