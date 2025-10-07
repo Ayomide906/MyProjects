@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d4f84e8-c73f-499e-b661-ea167a65b6f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gradient_descent_multivar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_mode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression_mode.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="9d4f84e8-c73f-499e-b661-ea167a65b6f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/code_py/MyProjects/Project3",
+    "last_opened_file_path": "C:/code_py/test/PythonProject1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
