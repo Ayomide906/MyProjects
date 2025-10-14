@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d4f84e8-c73f-499e-b661-ea167a65b6f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gradient_descent_multivar.py" beforeDir="false" afterPath="$PROJECT_DIR$/gradient_descent_multivar.py" afterDir="false" />
-    </list>
+    <list default="true" id="9d4f84e8-c73f-499e-b661-ea167a65b6f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
