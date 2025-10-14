@@ -1,12 +1,44 @@
 # MyProjects
 # 📊 CodeBasics SQL Challenge – Ad Hoc Requests
 
-Welcome to my submission for the CodeBasics Resume Project Challenge!
+Welcome to my Project Repository
 
-This repository contains my SQL solutions to 10 real-world business questions designed to test data analysis skills. All the detailed work — including queries, logic, and insights — is available in the [`Project1`](./Project1) folder.
+This repository contains my SQL solutions to 10 real-world business questions designed to test data analysis skills,also contains several Machine learning and matlab computations.
 
-👉 [View the full README and project breakdown](./Project1/README.md)
+
+## 📁 Project Structure
+
+Below is a breakdown of each folder in this repository
+
+1. **Project1** - 💼 CodeBasics SQL Challenge
+Contains solutions to 10 real-world business questions using SQL. Includes ad hoc queries, logic, and insights.
+👉 [View the full project breakdown](./Project1)
+
+2. **Project2** - Exploratory Data Analysis
+Contains exploratory data analysis on some datasets. Includes data cleaning, feature extraction and Insights Generation.
+👉 [View the full project breakdown](./Project2)
+
+3. **Project3** - Machine Learning Algorithm and Optimisation
+Contains Most of the Machine Learning Algorithms built using the scikit learn library and some built from scratch using numpy and pandas modules.
+👉 [View the full project breakdown](./Project3) 
+
+4. **SmartBrellaProject** - Smart Umbrella using sensor fusion and user classification algorithm on MATLAB.
+A project I am currently working on , with the goal of building a smart umbrella that responds to human motion in real time, using sensor fusion, kalman filter algorithm and machine learning.
+👉 [View the project breakdown](./smart_brella_projects)
+
+5. **Smart iot Fan** - A smart iot Fan Project.
+A School Project with the task of retrofitting a conventional standing fan into a powerful smart web controlled fan.Contains the C code that was used to implement Iot features
 
 ---
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayomide-akinlua-690930352)
+## 📌 How to Navigate
+
+Each folder contains:
+- Source code or queries
+- Sample data (if applicable)
+- Outputs or visualizations
+
+## 🔗 Connect with me 
+-[LinkedIn](https://www.linkedin.com/in/ayomide-akinlua-690930352)
+
+---
