@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code_py/MyProjects/Project3/mlruns/192307785387825820/491d56097975428894660cca4e794f79/artifacts
+end_time: 1764013067994
+entry_point_name: ''
+experiment_id: '192307785387825820'
+lifecycle_stage: active
+run_id: 491d56097975428894660cca4e794f79
+run_name: stately-bear-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764013027374
+status: 3
+tags: []
+user_id: user

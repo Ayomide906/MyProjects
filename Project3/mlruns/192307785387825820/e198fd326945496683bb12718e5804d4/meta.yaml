@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code_py/MyProjects/Project3/mlruns/192307785387825820/e198fd326945496683bb12718e5804d4/artifacts
+end_time: 1764013027238
+entry_point_name: ''
+experiment_id: '192307785387825820'
+lifecycle_stage: active
+run_id: e198fd326945496683bb12718e5804d4
+run_name: intrigued-conch-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764012766915
+status: 3
+tags: []
+user_id: user

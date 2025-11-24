@@ -1,0 +1,10 @@
+artifact_location: file:///C:/code_py/MyProjects/Project3/mlruns/192307785387825820/models/m-7da214bb5aa247fab5c600c0fffc902c/artifacts
+creation_timestamp: 1764013027726
+experiment_id: '192307785387825820'
+last_updated_timestamp: 1764013067959
+model_id: m-7da214bb5aa247fab5c600c0fffc902c
+model_type: ''
+name: Logistic Regression
+source_run_id: 491d56097975428894660cca4e794f79
+status: 2
+status_message: null
