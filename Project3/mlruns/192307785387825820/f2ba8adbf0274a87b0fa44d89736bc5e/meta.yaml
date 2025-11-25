@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code_py/MyProjects/Project3/mlruns/192307785387825820/f2ba8adbf0274a87b0fa44d89736bc5e/artifacts
+end_time: 1764100047109
+entry_point_name: ''
+experiment_id: '192307785387825820'
+lifecycle_stage: active
+run_id: f2ba8adbf0274a87b0fa44d89736bc5e
+run_name: invincible-flea-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764100015051
+status: 3
+tags: []
+user_id: user
