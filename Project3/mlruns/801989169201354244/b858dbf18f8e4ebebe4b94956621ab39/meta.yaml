@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/801989169201354244/b858dbf18f8e4ebebe4b94956621ab39/artifacts
+deleted_time: 1764261755989
 end_time: 1764107811783
 entry_point_name: ''
 experiment_id: '801989169201354244'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b858dbf18f8e4ebebe4b94956621ab39
 run_name: XGBClassifier
 source_name: ''

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code_py/MyProjects/Project3/mlruns/192307785387825820/ed4a476e2cf64de99ac0def2b0915152/artifacts
+end_time: 1764260890967
+entry_point_name: ''
+experiment_id: '192307785387825820'
+lifecycle_stage: active
+run_id: ed4a476e2cf64de99ac0def2b0915152
+run_name: worried-snail-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764260825648
+status: 3
+tags: []
+user_id: user

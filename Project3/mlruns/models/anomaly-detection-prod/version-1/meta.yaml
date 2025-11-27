@@ -1,0 +1,15 @@
+creation_timestamp: 1764265533830
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764265533830
+model_id: ''
+name: anomaly-detection-prod
+run_id: 76056649f7054a3aa0ee7d4fbe4b3e85
+run_link: ''
+source: models:/LogisticRegression/1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/801989169201354244/models/m-a70a8d8a2a5b4cb284a943d912044dbb/artifacts
+user_id: null
+version: 1

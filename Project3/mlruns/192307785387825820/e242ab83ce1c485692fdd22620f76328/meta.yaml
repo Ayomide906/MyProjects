@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code_py/MyProjects/Project3/mlruns/192307785387825820/e242ab83ce1c485692fdd22620f76328/artifacts
+end_time: 1764168291787
+entry_point_name: ''
+experiment_id: '192307785387825820'
+lifecycle_stage: active
+run_id: e242ab83ce1c485692fdd22620f76328
+run_name: placid-cub-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764168240616
+status: 3
+tags: []
+user_id: user
