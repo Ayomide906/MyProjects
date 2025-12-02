@@ -1,0 +1,10 @@
+artifact_location: file:C:/code_py/MyProjects/Project3/akinluaayomide8/443585732958131951/models/m-e5c865cb4db24558bc32281903f6fc66/artifacts
+creation_timestamp: 1764688493050
+experiment_id: '443585732958131951'
+last_updated_timestamp: 1764688500859
+model_id: m-e5c865cb4db24558bc32281903f6fc66
+model_type: null
+name: LogisticRegression
+source_run_id: c5d7ab08d0a6487bb71efcaaee769a3b
+status: 2
+status_message: null
