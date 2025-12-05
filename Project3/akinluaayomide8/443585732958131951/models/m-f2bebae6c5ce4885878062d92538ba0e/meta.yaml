@@ -1,0 +1,10 @@
+artifact_location: file:C:/code_py/MyProjects/Project3/akinluaayomide8/443585732958131951/models/m-f2bebae6c5ce4885878062d92538ba0e/artifacts
+creation_timestamp: 1764974030419
+experiment_id: '443585732958131951'
+last_updated_timestamp: 1764974042925
+model_id: m-f2bebae6c5ce4885878062d92538ba0e
+model_type: null
+name: XGBClassifier with SMOTE
+source_run_id: 40101b17df814659ac0bbad6e0bbd156
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:C:/code_py/MyProjects/Project3/akinluaayomide8/443585732958131951/models/m-cdceb666c8f04f8ba8c4a2ae950ec224/artifacts
+creation_timestamp: 1764974016485
+experiment_id: '443585732958131951'
+last_updated_timestamp: 1764974030145
+model_id: m-cdceb666c8f04f8ba8c4a2ae950ec224
+model_type: null
+name: XGBClassifier
+source_run_id: 768837537c2842b98bc17b3e4139894d
+status: 2
+status_message: null

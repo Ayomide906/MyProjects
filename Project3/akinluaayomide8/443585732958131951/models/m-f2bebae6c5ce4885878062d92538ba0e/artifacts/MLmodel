@@ -1,0 +1,22 @@
+artifact_path: file:C:/code_py/MyProjects/Project3/akinluaayomide8/443585732958131951/models/m-f2bebae6c5ce4885878062d92538ba0e/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.2
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.1.2
+mlflow_version: 3.6.0
+model_id: m-f2bebae6c5ce4885878062d92538ba0e
+model_size_bytes: 137746
+model_uuid: m-f2bebae6c5ce4885878062d92538ba0e
+prompts: null
+run_id: 40101b17df814659ac0bbad6e0bbd156
+utc_time_created: '2025-12-05 22:33:50.543865'
