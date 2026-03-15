@@ -59,7 +59,7 @@ The trained model processes the inputs and returns an **estimated house price in
 
 ## 📂 Project Structure
 Machine_learn_full_proj/
-
+```
 ├── model/
 │ ├── banglore_home_prices_model.pickle
 │ └── columns.json
@@ -76,10 +76,11 @@ Machine_learn_full_proj/
 ├── data/
 │ └── banglore_home_prices.csv
 │
-├── notebooks/
+├── model/
 │ └── house_price_prediction.ipynb
 │
 └── README.md
+```
 
 ## 📊 Model Development
 
