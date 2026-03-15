@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Price Prediction</title>
+    <link rel="stylesheet" href="app.css">
+    <script defer src="app.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Home Price Prediction</h1>
+
+        <!-- Square Feet -->
+        <label for="total_sqft">Total Square Feet</label>
+        <input type="number" id="total_sqft" placeholder="Enter total sqft">
+
+        <!-- BHK Slider -->
+        <label for="bhk">BHK</label>
+        <input type="range" id="bhk" min="1" max="10" value="2" oninput="bhkValue.textContent = this.value">
+        <span id="bhkValue">2</span>
+
+        <!-- Bath Slider -->
+        <label for="bath">Bathrooms</label>
+        <input type="range" id="bath" min="1" max="10" value="2" oninput="bathValue.textContent = this.value">
+        <span id="bathValue">2</span>
+
+        <!-- Area Type Dropdown -->
+        <label for="area_type">Area Type</label>
+        <select id="area_type">
+            <option value="built-up  area">built-up  area</option>
+            <option value="super built-up  area">Super Built-up Area</option>
+            <option value="carpet  area">carpet  area</option>
+            <option value="plot  area">plot  area</option>
+        </select>
+
+        <!-- Location Searchable Dropdown -->
+        <label for="location">Location</label>
+        <input type="text" id="location" placeholder="Start typing location...">
+        <div id="location-list" class="dropdown"></div>
+
+        <!-- Predict Button -->
+        <button id="predictBtn">Predict Price</button>
+
+        <!-- Output -->
+        <h2 id="result"></h2>
+    </div>
+
+</body>
+</html>
