@@ -24,7 +24,8 @@ This project implements a hybrid log classification system, combining three comp
 
 ## Project Folder Structure
 
-project/
+classific_proj/
+```
 │
 ├── server.py               # FastAPI application
 ├── classify.py             # CSV + log classification pipeline

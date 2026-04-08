@@ -58,7 +58,7 @@ The trained model processes the inputs and returns an **estimated house price in
 ---
 
 ## 📂 Project Structure
-Machine_learn_full_proj/
+regression_proj/
 ```
 ├── model/
 │ ├── banglore_home_prices_model.pickle
