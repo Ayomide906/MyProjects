@@ -29,6 +29,10 @@ A project I am currently working on , with the goal of building a smart umbrella
 5. **Smart iot Fan** - A smart iot Fan Project.
 A School Project with the task of retrofitting a conventional standing fan into a powerful smart web controlled fan.Contains the C code that was used to implement Iot features
 
+6. **End-End ML Projects** - End-End Classification and Regression project with Deployment.
+A Personal Project to solve the problem of inconsistencies in software logged messages interpretation by software professionals, using LLM, Bert and REGEX patterns, log messages are classified with an accuracy of over 96% with lesser computation cost due to the parallel multi algorithm used
+👉 [View the project breakdown](./Machine_learn_full_proj)
+👉 [View the Regression_proj README file](./Machine_learn_full_proj/regression_proj/README.md)
 ---
 
 ## 📌 How to Navigate

@@ -1,7 +1,7 @@
 let locations = [];
 
 window.onload = function () {
-    fetch("http://127.0.0.1:5000/get_location_names")
+    fetch("/api/get_location_names")
         .then(res => res.json())
         .then(data => {
             locations = data.locations;
@@ -56,7 +56,7 @@ document.getElementById("predictBtn").onclick = function () {
     formData.append("area_type", area);
     formData.append("location", location);
 
-    fetch("http://127.0.0.1:5000/predict_home_prices", {
+    fetch("/api/predict_home_prices", {
         method: "POST",
         body: formData
     })
