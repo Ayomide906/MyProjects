@@ -113,7 +113,7 @@ Frontend files:
 
 ## 🎥 Demo
 
-Currently the application runs on an amazon ecu instance.
+Currently the application runs on an amazon aws ecu instance.
 
 Steps to test:
 
