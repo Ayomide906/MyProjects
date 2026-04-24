@@ -113,12 +113,12 @@ Frontend files:
 
 ## 🎥 Demo
 
-Currently the application runs locally using a Flask server.
+Currently the application runs on an amazon ecu instance.
 
 Steps to test:
 
 1. Start the backend server
-2. Open the frontend page
+2. Open the frontend page http://ec2-51-20-53-213.eu-north-1.compute.amazonaws.com/
 3. Enter house details
 4. Click **Predict Price**
 
